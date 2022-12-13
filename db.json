@@ -30,7 +30,8 @@
       "time": "09:00",
       "imagePath": "pukkelpop.png"
     },
-    {"id": 4,
+    {
+      "id": 4,
       "category": "concert",
       "title": "Graspop",
       "description": "Festival Rock",
